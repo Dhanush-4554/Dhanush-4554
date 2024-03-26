@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-Hey there! 🚀 Second-year at Siddaganga Institute of Tech, diving deep into the tech cosmos—majoring in the magic of Computer Science and Engineering. 🌐 Passionate about web wizardry and cracking the code with Data Structures and Algorithms.<br><br>🤓 Constantly fueled by curiosity, I'm on a mission to hug every byte of knowledge in this digital adventure. Excitement level? Off the charts!<br>College life isn't just about acing exams; it's about living, laughing, and learning. 🎉 Embracing the value of friendships, relishing every lecture, and savoring the joy of discovery.<br><br>When not in coding mode, you'll find me flipping through novels 📚, plotting my next travel escapade ✈️, and soaking up life's unforgettable moments. 💫 Here's to the journey, the challenges, and the joy of tech exploration! 🚀 #TechExplorer #LifeIsAnAdventure<br><br>I am excited about the journey ahead and the opportunities that await me in the world of technology.
+Hey there! 🚀 Second-year at Siddaganga Institute of Tech, diving deep into the tech cosmos—majoring in the magic of Computer Science and Engineering. 🌐 Passionate about: <br>web wizardry<br>cracking the code with Data Structures and Algorithms.<br><br>🤓 Constantly fueled by curiosity, I'm on a mission to hug every byte of knowledge in this digital adventure.<br>Poet from heart, Coder by choice!! 💫<br><br>When not in coding mode, you'll find me just being human :) or imaginig some unreal things that can never actually happen and finding peace.. haha.. welcome to my world ;)
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dhanush45_54/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanush-b-469306249/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@talktodhanush4554)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanush-b-469306249/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dhanush45_54/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@talktodhanush4554)
 
 # 💻 Tech Stack:
 
@@ -15,13 +15,5 @@ Hey there! 🚀 Second-year at Siddaganga Institute of Tech, diving deep into th
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-4554&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Dhanush-4554&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
