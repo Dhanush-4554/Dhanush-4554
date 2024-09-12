@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey there! 🚀 Second-year at Siddaganga Institute of Tech, diving deep into the tech cosmos—majoring in the magic of Computer Science and Engineering.<br><br>🌐Passionate about: <br>web wizardry<br>cracking the code with Data Structures and Algorithms.<br><br>Poet from heart, Coder by choice!! 💫<br><br>When not in coding mode, you'll find me just being human :) or imaginig some unreal things that can never actually happen and finding peace.. haha.. welcome to my world ;)
+Hey there! 🚀 Third-year at Siddaganga Institute of Tech, diving deep into the tech cosmos—majoring in the magic of Computer Science and Engineering.<br><br>🌐Passionate about: <br>web wizardry<br>cracking the code with Data Structures and Algorithms.<br>Machine learning and AI<br><br>Poet from heart, Coder by choice!! 💫<br><br>When not in coding mode, you'll find me just being human :) or imaginig some unreal things that can never actually happen and finding peace.. haha.. welcome to my world ;)
 
 ## 🌐 Socials:
 
