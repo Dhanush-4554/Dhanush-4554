@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-Hey there! 🚀 Third-year at Siddaganga Institute of Tech, diving deep into the tech cosmos—majoring in the magic of Computer Science and Engineering.<br><br>🌐Passionate about: <br>web wizardry<br>cracking the code with Data Structures and Algorithms.<br>Machine learning and AI<br><br>Poet from heart, Coder by choice!! 💫<br><br>When not in coding mode, you'll find me just being human :) or imaginig some unreal things that can never actually happen and finding peace.. haha.. welcome to my world ;)
+Hi there! 👋 I'm Dhanush B, a passionate and dedicated full-stack developer with over 2 years of experience creating innovative, high-performance web applications. I specialize in building sleek, user-friendly front-end interfaces and robust, scalable back-end systems. My love for problem-solving drives me to deliver creative, clean, and efficient code.
+
+I thrive in fast-paced environments and enjoy collaborating with teams to craft engaging digital experiences that captivate users and perform flawlessly across devices. Whether it's building a dynamic web app, a stunning website, or a full-stack solution, I bring a deep commitment to quality, precision, and user satisfaction to every project.
 
 ## 🌐 Socials:
 
