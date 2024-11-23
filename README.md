@@ -1,20 +1,45 @@
 # 💫 About Me:
 
-Hi there! 👋 I'm Dhanush B, a passionate and dedicated full-stack developer with over 2 years of experience creating innovative, high-performance web applications. I specialize in building sleek, user-friendly front-end interfaces and robust, scalable back-end systems. My love for problem-solving drives me to deliver creative, clean, and efficient code.
+Hi there! I'm **Dhanush B**, a passionate full-stack developer with 2+ years of experience crafting innovative web applications. I specialize in creating sleek, user-friendly interfaces and scalable back-end systems.  
 
-I thrive in fast-paced environments and enjoy collaborating with teams to craft engaging digital experiences that captivate users and perform flawlessly across devices. Whether it's building a dynamic web app, a stunning website, or a full-stack solution, I bring a deep commitment to quality, precision, and user satisfaction to every project.
+I love solving problems and delivering clean, efficient code. Whether it's building dynamic web apps, stunning websites, or full-stack solutions, I’m committed to quality, precision, and user satisfaction. Let’s create something amazing together! 
 
-## 🌐 Socials:
+## 📬 Connect with Me  
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanush-b-469306249/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dhanush45_54/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@talktodhanush4554)
+📧 **Email**: [talktodhanush4554@gmail.com](mailto:talktodhanush4554@gmail.com)  
+📞 **Phone**: [+91 8618541131](tel:+918618541131)  
+💼 **LinkedIn**: [Dhanush B](https://www.linkedin.com/in/dhanush-b-469306249/)  
+🐦 **Twitter**: [@dhanush_4554](https://x.com/dhanush_4554)  
+🌐 **Portfolio**: [dhanush4554.vercel.app](https://dhanush4554.vercel.app/)  
 
-# 💻 Tech Stack:
+## 🛠️ Tech Stack  
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 💻 Languages  
+JavaScript, TypeScript, Python, C, C++  
+
+### 🚀 Full Stack Development  
+**Frontend**: React.js, Next.js, Redux, CSS, Tailwid  
+**Backend**: Node.js, Express.js, Firebase, MongoDB, SQL
+
+### 🤖 AI/ML  
+Python (pandas, numpy, matplotlib), scikit-learn, tensorflow, APIs, LLMs 
+
+### 🛠️ Developer Tools  
+Git, GitHub, VS Code, Postman, Docker  
+
+
+### 🔧 Familiar Technologies  
+Unix & Shell Programming  
+WebRTC, Socket.io  
+Web3 (Solidity)  
+
+### 🎨 Additional Skills  
+UI/UX Design  
+Experience with **Snapchat Lens Studio** (700k+ impressions on lenses)  
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-4554&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush-4554&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 [![](https://visitcount.itsvg.in/api?id=Dhanush-4554&icon=0&color=0)](https://visitcount.itsvg.in)
