@@ -4,7 +4,7 @@ Hi there! I'm **Dhanush B**, a passionate full-stack developer with 2+ years of 
 
 I thrive on solving challenging problems and writing clean, efficient code. Whether it's a dynamic web app, a stunning website, or a full-stack solution, I bring creativity, precision, and dedication to every project. Let’s create something amazing together! 
 
----
+
 
 ## 📬 Connect with Me  
 
@@ -14,7 +14,7 @@ I thrive on solving challenging problems and writing clean, efficient code. Whet
 🐦 **Twitter**: [@dhanush_4554](https://x.com/dhanush_4554)  
 🌐 **Portfolio**: [dhanush4554.vercel.app](https://dhanush4554.vercel.app/)  
 
----
+
 
 ## 🛠️ Tech Stack  
 
@@ -40,7 +40,7 @@ I thrive on solving challenging problems and writing clean, efficient code. Whet
 - UI/UX Design  
 - Experience with **Snapchat Lens Studio** (700k+ impressions on lenses)  
 
----
+
 
 ## 📊 GitHub Stats  
 
