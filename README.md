@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi there! I'm **Dhanush B**, a passionate full-stack developer with 2+ years of experience building innovative, high-performance web applications. I specialize in designing sleek, user-friendly interfaces and robust, scalable back-end systems.  
+Hi there! I'm **Dhanush B**, a passionate full-stack developer with experience in building innovative, high-performance web applications. I specialize in designing sleek, user-friendly interfaces and robust, scalable back-end systems.  
 
 I thrive on solving challenging problems and writing clean, efficient code. Whether it's a dynamic web app, a stunning website, or a full-stack solution, I bring creativity, precision, and dedication to every project. Let’s create something amazing together! 🚀  
 
