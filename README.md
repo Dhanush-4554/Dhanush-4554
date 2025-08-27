@@ -5,7 +5,7 @@ I'm Dhanush B, Front-end Engineer Intern @Amazon and a passionate software devel
 
 My journey in tech has been incredibly rewarding - from winning hackathons (still amazed by those 5 wins!) to building @ArnaAI, where we're working on something that I hope will make lives a little better. I love working with MERN stack and Next.js
 
-Currently building cool stuff @4D_Devs. Currently on this wonderful journey of learning and building, and always open to new friendships and collaborations. Let's build something meaningful together! 😊
+Currently building cool stuff @4D_Devs. Let's build something meaningful together! 😊
 
 ## 📬 Connect with Me  
 
